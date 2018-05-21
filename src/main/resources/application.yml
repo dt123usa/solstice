@@ -1,0 +1,4 @@
+myconfig:
+  msg: this is my config message
+  randomText: random text
+  anotherVariable: this is another config property veriable with ${myconfig.randomText}
